@@ -1,20 +1,20 @@
-<h1 align="center">Welcome to my Backend Template 👋</h1>
+<h1 align="center">Welcome to EasyCRM Backend 👋</h1>
 
 <h3 align="center" >
-  A template for NodeJS backend projects
+  A simple and pratical CRM application
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/node-backend-template">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/node-backend-template">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/node-backend-template">
-  <a href="https://github.com/ArthurPedroti/node-backend-template/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/node-backend-template">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ArthurPedroti/easycrm-backend">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ArthurPedroti/easycrm-backend">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ArthurPedroti/easycrm-backend">
+  <a href="https://github.com/ArthurPedroti/easycrm-backend/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ArthurPedroti/easycrm-backend">
   </a>
-   <a href="https://github.com/ArthurPedroti/node-backend-template/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/node-backend-template">
+   <a href="https://github.com/ArthurPedroti/easycrm-backend/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ArthurPedroti/easycrm-backend">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/node-backend-template">
+  <img alt="License" src="https://img.shields.io/github/license/ArthurPedroti/easycrm-backend">
 </p>
 <p align="center">
 
@@ -49,12 +49,7 @@
 
 ## Description
 
-This template was coded in Typescript, TypeORM and Express, contains a login with a password recovery system. Also, have a notifications provider with MongoDB and a Redis provider to be used for cache. The recovery password email system was setup with AWS SES for production and the profile avatar setup to be saved with AWS S3.For commits, we setup a config with commitlint/commitizen/husky and for. For code analyses, we are using ESLint and Prettier. For tests, we are using JEST. You can see at the technologies section, all dependencies we are using.
-
-To use this template you will need to configure the files bellow:
-
-- ormconfig.json
-- .env
+A simple and pratical CRM application
 
 ## :computer: Languages
 
